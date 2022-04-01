@@ -6,9 +6,9 @@
 
 body {
     background-color: skyblue;
-/*     background-image: url('beautiful_lake_sunset-3840x2160.jpg');
-    background-repeat: no-repeat; */
-/*     background-size: cover; */
+    background-image: url('beautiful_lake_sunset-3840x2160.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: 'Times New Roman', Times, serif;
 
 }
